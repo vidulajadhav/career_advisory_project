@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-boilerplate-1",
+  "name": "Personalized Career and Skills Advisor ",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^6.20.0",
+    "@clerk/nextjs": "^6.32.0",
     "@neondatabase/serverless": "^0.10.4",
     "@radix-ui/react-dialog": "^1.1.5",
     "@radix-ui/react-popover": "^1.1.5",
